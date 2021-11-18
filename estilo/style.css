@@ -201,3 +201,27 @@ footer a:hover {
 	color: var(--cor1);
 
 }
+
+#pg02 {
+	text-align: center;
+}
+
+#pg02 h1 {
+	color: var(--cor4);
+}
+
+#pg02 img {
+	width: 300px;
+	display: block;
+	margin: auto;
+
+}
+
+#pg02 a {
+	text-decoration: none;
+	background-color: white;
+}
+
+#pg02 a:hover {
+	color: red;
+}
