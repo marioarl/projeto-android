@@ -11,6 +11,7 @@
 Projeto Android criado no capitulo 17 do curso de HTML5 e CSS3 do Curso em Video (redes sociais e site acima).
 
 Para acessar a página do Projeto Android acesse:
+https://marioarl.github.io/projeto-android/
 
 *** 
 
